@@ -11,4 +11,4 @@ The envisioned process to use 'Calen' is to have a user view a discord event and
 
 Once this button is pressed, then depending on the level of implementation, either have 'Calen':
 - Immediately put the event on their Calendar once initial syncing has been done
-- Or have the user request Calen for a calendar file that is used in some formats and manually have the user add this to their calendars.
+- Or have the user request Calen for a calendar file that is used in some formats and manually have the user add this to their calendars. 
